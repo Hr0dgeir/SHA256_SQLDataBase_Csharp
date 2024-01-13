@@ -1,0 +1,10 @@
+C:\Users\m3rt1\source\repos\SHA256_Encoding_and_Decoding\SHA256_Encoding_and_Decoding\bin\Debug\SHA256_Encoding_and_Decoding.exe.config
+C:\Users\m3rt1\source\repos\SHA256_Encoding_and_Decoding\SHA256_Encoding_and_Decoding\bin\Debug\SHA256_Encoding_and_Decoding.exe
+C:\Users\m3rt1\source\repos\SHA256_Encoding_and_Decoding\SHA256_Encoding_and_Decoding\bin\Debug\SHA256_Encoding_and_Decoding.pdb
+C:\Users\m3rt1\source\repos\SHA256_Encoding_and_Decoding\SHA256_Encoding_and_Decoding\obj\Debug\SHA256_Encoding_and_Decoding.csproj.AssemblyReference.cache
+C:\Users\m3rt1\source\repos\SHA256_Encoding_and_Decoding\SHA256_Encoding_and_Decoding\obj\Debug\SHA256_Encoding_and_Decoding.Form1.resources
+C:\Users\m3rt1\source\repos\SHA256_Encoding_and_Decoding\SHA256_Encoding_and_Decoding\obj\Debug\SHA256_Encoding_and_Decoding.Properties.Resources.resources
+C:\Users\m3rt1\source\repos\SHA256_Encoding_and_Decoding\SHA256_Encoding_and_Decoding\obj\Debug\SHA256_Encoding_and_Decoding.csproj.GenerateResource.cache
+C:\Users\m3rt1\source\repos\SHA256_Encoding_and_Decoding\SHA256_Encoding_and_Decoding\obj\Debug\SHA256_Encoding_and_Decoding.csproj.CoreCompileInputs.cache
+C:\Users\m3rt1\source\repos\SHA256_Encoding_and_Decoding\SHA256_Encoding_and_Decoding\obj\Debug\SHA256_Encoding_and_Decoding.exe
+C:\Users\m3rt1\source\repos\SHA256_Encoding_and_Decoding\SHA256_Encoding_and_Decoding\obj\Debug\SHA256_Encoding_and_Decoding.pdb
